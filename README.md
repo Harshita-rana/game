@@ -1,5 +1,5 @@
 # game
-#Snake water gun game (Python)
+Snake water gun game (Python)
 import random 
 computer = random.choice([-1, 0, 1])
 youstr = input("Enter your choice (s for snake, w for water, g for gun):")
